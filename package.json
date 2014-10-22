@@ -1,6 +1,6 @@
 {
   "name": "loop-grid-mover",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Move selected ranges of loops to new origin. loop-grid transform.",
   "main": "index.js",
   "scripts": {
