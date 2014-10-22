@@ -1,0 +1,26 @@
+{
+  "name": "loop-grid-mover",
+  "version": "0.0.0",
+  "description": "Move selected ranges of loops to new origin. loop-grid transform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/loop-grid-mover.git"
+  },
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/loop-grid-mover/issues"
+  },
+  "homepage": "https://github.com/mmckegg/loop-grid-mover",
+  "dependencies": {
+    "observ-grid": "^2.8.0"
+  },
+  "devDependencies": {
+    "array-grid": "^1.4.0",
+    "tape": "^3.0.1"
+  }
+}
